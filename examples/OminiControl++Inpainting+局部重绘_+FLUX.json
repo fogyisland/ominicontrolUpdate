@@ -47,9 +47,9 @@
 				
 			},
 			"id":1,
-			"type":"RunningHub_Omini_Fill",
+			"type":"OminiControl_Fill",
 			"properties":{
-				"Node name for S&R":"RunningHub_Omini_Fill"
+				"Node name for S&R":"OminiControl_Fill"
 			},
 			"order":1
 		},

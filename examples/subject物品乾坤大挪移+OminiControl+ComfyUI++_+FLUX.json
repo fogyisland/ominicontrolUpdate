@@ -72,9 +72,9 @@
 				
 			},
 			"id":1,
-			"type":"RunningHub_Omini_Subject",
+			"type":"OminiControl_Subject",
 			"properties":{
-				"Node name for S&R":"RunningHub_Omini_Subject"
+				"Node name for S&R":"OminiControl_Subject"
 			},
 			"order":1
 		},
